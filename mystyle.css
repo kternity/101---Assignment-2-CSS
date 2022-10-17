@@ -1,0 +1,36 @@
+body {
+    font-family:'arial';
+    background-color:blanchedalmond;
+    color:black;
+    font-size: 11px;
+    }
+
+
+
+h1 {
+    font-size: 30px;
+    text-transform: uppercase;
+    color:coral;
+    letter-spacing 5px;
+    text-align:center;
+    font-weight:bold;
+    line-height: 1.1;
+
+}
+
+h2{
+   font-size: 30px;
+   text-transform: uppercase;
+    color:cornflowerblue;
+    letter-spacing 5px;
+    text-align:center;
+    text-shadow:2px 2px #077ca3;
+    font-weight:bold;
+    }
+
+.contact {
+    text-align:center;
+    color:blue;
+    text-decoration:underline;
+}
+
